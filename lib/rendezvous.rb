@@ -1,3 +1,4 @@
+require "stringio"
 require "rendezvous/version"
 
 require "openssl"
